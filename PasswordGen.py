@@ -6,7 +6,6 @@ import random
 def generate():
 	pwdChars = []
 	currLen = 0
-	failSafe = 0
 	pwd = ""
 	
 	lc = "abcdefghijklmnopqrstuvwxyz"
